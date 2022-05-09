@@ -17,7 +17,7 @@ Début de l'exercice (2h) :
 
 Difficultés :
 
-  - La syntaxe a été le plus compliqué étant donné que je très peu en JavaScript, ce qui m'a rendu plus long :
+  - La syntaxe a été le plus compliqué étant donné que je travaille très peu en JavaScript, ce qui m'a rendu plus long :
   
       - La récupération des données ;
       - Le retour des données.
