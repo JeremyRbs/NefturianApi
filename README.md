@@ -22,7 +22,10 @@ Difficultés :
       - La récupération des données ;
       - Le retour des données.
       
-  - L'algorithme de Dijkstra m'a pris du temps et je ne l'ai pas terminé. 
+  - L'algorithme de Dijkstra m'a pris du temps et je ne l'ai pas terminé. J'ai d'abord pris le temps de relire l'algorithme puis j'ai tenté de l'appliquer.
+    En essayant, je me suis trompé plusieurs fois ce qui rend cette partie incomplète.
     Cependant, le temps de route fonctionne quant à lui correctement ainsi que l'affichage de retour.
+    
+    Je vais continuer cet exercice et le renvoyer complet le plus rapidement possible.
     
 Lien du projet GitHub : https://github.com/JeremyRbs/nefturianApi.git
