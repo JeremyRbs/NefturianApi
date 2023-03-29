@@ -1,4 +1,4 @@
-# nefturianApi
+# NefturianApi
 
 Travaillant essentiellement sur d'autres domaines que le JavaScript et le Web3, j'ai passé environ trois heures à installer les logiciels et à me remettre à jour :
 
